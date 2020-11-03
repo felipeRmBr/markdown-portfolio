@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+### Here you have a few of my favorite things:
+* Movies and series
+* Reading
+* Listening to music
+* Sleeping
