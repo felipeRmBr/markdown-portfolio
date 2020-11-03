@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+Follow me on [Twitter](https://twitter.com/home)
